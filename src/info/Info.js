@@ -1,5 +1,5 @@
 import self from "../img/linkedin profile.jpg";
-import mock1 from "../img/mock1.png";
+import mock1 from "../img/inaiipu-mock.png";
 import mock2 from "../img/mock2.png";
 import mock3 from "../img/mock3.png";
 import mock4 from "../img/mock4.png";
@@ -48,6 +48,8 @@ export const info = {
       text: "thanushkumarrd@gmail.com",
     },
   ],
+  exposedTo: ["nodejs", "python", "adobe illustrator"],
+
   socials: [
     // {
     //   link: "https://facebook.com",
@@ -105,7 +107,6 @@ export const info = {
 
       "figma",
     ],
-    exposedTo: ["nodejs", "python", "adobe illustrator"],
   },
   hobbies: [
     {
