@@ -87,7 +87,6 @@ export const info = {
       "tailwind",
       "javascript",
       "TypeScript",
-
       "React.js",
       "Next.js",
       "Node.js",
@@ -122,7 +121,7 @@ export const info = {
       emoji: "🎥",
     },
     {
-      label: "cooking",
+      label: "Listening to songs",
       emoji: "🌶",
     },
     // Same as above, change the emojis to match / relate to your hobbies or interests.
